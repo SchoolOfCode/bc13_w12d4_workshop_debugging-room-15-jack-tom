@@ -1,0 +1,10 @@
+Todo list can be moved! =/  💪 (dunno why?)
+
+Input field works but does not handleSubmit
+
+CORS is blocking fetches // PRIORITY 💪
+
+
+
+
+handleSubmit is apparently not a function
