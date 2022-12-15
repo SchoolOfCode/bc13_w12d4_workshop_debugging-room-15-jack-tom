@@ -1,0 +1,18 @@
+How we're going to tackle this debuggng 
+
+Establish what the issue is in the first place. ✅
+
+Identify potential cause of issue and expand the "search" by possible looking at other components/parts of code. ✅
+
+Decide how best to proceed with the task
+Re-run tests ✅
+Invetigate code using VScode debugger
+
+*  × The hasPets function should return (henry ford really does have a nice pet)                                              
+  × The hasPets function should return (henry ford has no pets) (1 ms)    *
+
+Run tests to help debug and document what we found
+
+Once we're confident that we're on the right track - potentially conduct additional tests?
+
+Record evidence of changes once everything is working as intended
